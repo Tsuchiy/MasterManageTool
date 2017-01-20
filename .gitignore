@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+
+.temp/*
+ext/*
+
+nbproject
+nbproject/*
+.idea
+.idea/*
+
+*.pyc
+
+~$*
+!.gitkeep
+
